@@ -1,0 +1,16 @@
+/.bundle/
+/.idea/
+/.yardoc
+/_yardoc/
+/bct/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+.irb_history
+
+# rspec failure tracking
+.rspec_status
+.tool-versions
